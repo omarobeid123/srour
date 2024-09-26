@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40097431499",
+    "project_id": "semsem-app",
+    "storage_bucket": "semsem-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40097431499:android:23e159fe9819a4c985804e",
+        "android_client_info": {
+          "package_name": "com.example.sesame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtrqbJWI2-GIZA11HC6aJ0JGg7zf2ETjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
